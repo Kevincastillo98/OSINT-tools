@@ -12,6 +12,7 @@ This repo contains tools that I commonly use.
 ## Web pages to find emails
 
 1. [epieos](https://tools.epieos.com/email.php)
+2. [hunter.io](https://hunter.io/)
 
 ## Metadata extraactor
 
