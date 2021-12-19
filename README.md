@@ -8,6 +8,8 @@ This repo contains tools that I commonly use.
 3. [TheHardvester](https://github.com/laramies/theHarvester)
 4. [EmailFinder](https://github.com/Josue87/EmailFinder)
 5. [mosint](https://github.com/alpkeskin/mosint)
+6. [infoga](https://github.com/m4ll0k/Infoga)
+7. [SimpleMail](https://simplysecurity.github.io/SimplyEmail/)
 
 ## Web pages to find emails
 
