@@ -36,3 +36,6 @@ This repo contains tools that I commonly use.
 5. [subfinder](https://github.com/projectdiscovery/subfinder)
 6. [assetfinder](https://github.com/tomnomnom/assetfinder)
 7. [findomain](https://github.com/Findomain/Findomain)
+
+##Scanners
+1. [nginxpwner](https://github.com/stark0de/nginxpwner)
