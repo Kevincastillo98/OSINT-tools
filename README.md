@@ -1,6 +1,11 @@
 # OSINT-tools
 This repo contains tools that I commonly use.
 
+## OSINT scanner
+
+1. [Spiderfoot](https://github.com/smicallef/spiderfoot?ref=d)
+
+
 ## Command line tools / Scripts for Email and password leaks
 
 1. [pwndb](https://github.com/davidtavarez/pwndb)
