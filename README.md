@@ -4,6 +4,7 @@ This repo contains tools that I commonly use.
 ## OSINT scanner
 
 1. [Spiderfoot](https://github.com/smicallef/spiderfoot?ref=d)
+2. [Investigator](https://abhijithb200.github.io/investigator/)
 
 
 ## Command line tools / Scripts for Email and password leaks
